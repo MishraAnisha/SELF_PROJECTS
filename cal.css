@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding:0;
+}
+body,html{
+    background: #ffffff;
+   
+}
+h1{
+    color: rgb(37, 14, 57);
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+    font-weight: 500;
+}
+button{
+    padding: 23px;
+    width: 80px;
+    font-size: larger;
+    font-weight: 300;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 1197px;
+    cursor: pointer;
+    
+}
+#zero:hover{
+    background: rgb(91, 54, 129);
+}
+#m1:hover{
+    background: rgb(91, 54, 129);
+
+}
+#m2:hover{
+    background: rgb(190, 160, 215);
+}
+#m3:hover{
+    background: rgb(81, 53, 104);
+}
+
+#zero{
+    width: 168px;
+    background: rgb(56, 27, 82);
+    color: aliceblue;
+}
+.container{
+    text-align: center;
+    padding: 5rem;
+    
+}
+input{
+    padding: 11px 2px;
+    width: 20rem;
+    height: 32px;
+    margin: 10px;
+    font-size: 30px;
+
+}
+.input{
+    border: 2px solid rgb(37, 14, 57);
+}
+#m1{
+    background:  rgb(56, 27, 82);
+    color: aliceblue;
+}
+#m3{
+    width: 246px;
+    padding: 21px;
+    background-color:rgb(37, 14, 57);
+    color: aliceblue;
+}
+#m2{
+    background: rgb(231, 210, 250);
+}
